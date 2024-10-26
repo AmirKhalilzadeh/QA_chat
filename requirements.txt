@@ -1,0 +1,6 @@
+python 3.10.0
+ipykernel
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
