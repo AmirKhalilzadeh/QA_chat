@@ -4,10 +4,11 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # User-specific files
-LC_chatbot/
+LC_chatbot/*
 .env
 .*checkpoints
 .DS_Store
+
 
 # User-specific files
 *.rsuser
